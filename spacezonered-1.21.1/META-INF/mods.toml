@@ -1,0 +1,21 @@
+Manifest-Version = "1.0"
+Specification-Title = "serverredirect"
+Specification-Vendor = "KaiNoMood"
+Specification-Version = "1"
+Implementation-Title = "ServerRedirect_MC21"
+Implementation-Version = "1.4.5"
+Implementation-Vendor = "KaiNoMood"
+Implementation-Timestamp = "2023-08-05T18:53:35+0200"
+
+# Mods TOML for Forge 1.21.x
+modLoader = "javafml"
+# Для Forge 1.21.1 версия загрузчика обычно 49 (пример), укажите актуальную из MDK
+loaderVersion = "[49,50)"
+license = "MIT"
+
+[[mods]]
+modId = "serverredirect"
+version = "1.4.5"
+displayName = "Server Redirect"
+authors = "KaiNoMood"
+# при необходимости добавьте description, displayURL, logoFile и др.

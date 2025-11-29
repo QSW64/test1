@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: serverredirect
+Specification-Vendor: KaiNoMood
+Specification-Version: 1
+Implementation-Title: ServerRedirect_MC20
+Implementation-Version: 1.4.5
+Implementation-Vendor: KaiNoMood
+Implementation-Timestamp: 2023-08-05T18:53:35+0200
+
